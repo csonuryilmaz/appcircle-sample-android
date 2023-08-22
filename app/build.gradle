@@ -6,6 +6,7 @@ android {
     buildFeatures {
         buildConfig = true
     }
+    namespace "com.appcircle.appcircle_sample_android"
     defaultConfig {
         vectorDrawables.useSupportLibrary = true
         applicationId "com.appcircle.appcircle_sample_android"
